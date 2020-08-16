@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 75 Contributions in 2020
+> 🏆 75 Contributions in the year 2020
  > 
-> 📦 Used 180 Bytes in GitHub's Storage 
+> 📦 180 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 14 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
 **I'm a Night 🦉** 
 
@@ -24,7 +24,7 @@
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -38,21 +38,21 @@ Sunday       16 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Sao_Paulo
+⌚︎ Time zone: America/Sao_Paulo
 
-💬 Languages: 
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Code Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating Systems: 
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
