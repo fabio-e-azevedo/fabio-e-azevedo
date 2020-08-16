@@ -5,17 +5,17 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 75 Contributions in year 2020
+> 🏆 75 Contributions in 2020
  > 
-> 📦 Used 172 Bytes in GitHub's Storage 
+> 📦 Used 173 Bytes in GitHub's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
 > 🔑 0 Owned Private Repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
@@ -38,26 +38,26 @@ Sunday       16 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: America/Sao_Paulo
 
 💬 Languages: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
 💻 Operating Systems: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   4 repos             ███████████░░░░░░░░░░░░░░   44.44% 
