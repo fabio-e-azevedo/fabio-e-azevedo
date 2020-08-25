@@ -1,5 +1,7 @@
 # Hello World 🤙
 
+“My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time.” — Steve Jobs
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
 
