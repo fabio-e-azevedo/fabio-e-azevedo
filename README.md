@@ -1,6 +1,8 @@
 # Hello World 🤙 🤜🤛
 
-“My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time.” — Steve Jobs
+“My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time.” - Steve Jobs
+
+“Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
