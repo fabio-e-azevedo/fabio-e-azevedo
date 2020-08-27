@@ -4,6 +4,8 @@
 
 “Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
 
+“The function of good software is to make the complex appear to be simple.” - Grady Booch
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
