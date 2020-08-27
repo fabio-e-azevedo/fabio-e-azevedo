@@ -82,8 +82,4 @@ Go                       1 repos             ██░░░░░░░░░�
 
 👉🏼&nbsp; @ me on [Twitter](https://twitter.com/fabioeazevedo) about any of the following 
 - Programming stuff
-- Workaround 1
-- Workaround 2
-- Workaround 3
-- Workaround 4
-- Workaround 5
+
