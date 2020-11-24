@@ -13,7 +13,7 @@
 
 > 🏆 96 Contributions in the Year 2020
  > 
-> 📦 278 Bytes Used in Github's Storage 
+> 📦 279 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,7 +77,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/fabio-e-azevedo/fabio-e-azevedo/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/fabio-e-azevedo/fabio-e-azevedo/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
