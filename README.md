@@ -13,13 +13,13 @@
 
 > 🏆 96 Contributions in the Year 2020
  > 
-> 📦 296 Bytes Used in Github's Storage 
+> 📦 297 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories
+> 📜 15 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+15 Private Repository 
  > 
 **I'm a Night 🦉** 
 
