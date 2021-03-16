@@ -7,7 +7,7 @@
 “The function of good software is to make the complex appear to be simple.” - Grady Booch
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
