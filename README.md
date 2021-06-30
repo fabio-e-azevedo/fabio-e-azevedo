@@ -13,7 +13,7 @@
 
 > 🏆 0 Contributions in the Year 2021
  > 
-> 📦 408 Bytes Used in Github's Storage 
+> 📦 410 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,7 +80,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fabio-e-azevedo/fabio-e-azevedo/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2021
+ Last Updated on 30/06/2021
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-e-azevedo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
