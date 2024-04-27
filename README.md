@@ -7,47 +7,47 @@
 “The function of good software is to make the complex appear to be simple.” - Grady Booch
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My Github Data** 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-> 🏆 0 Contributions in the Year 2021
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
  > 
-> 📦 430 Bytes Used in Github's Storage 
+> 🏆 77 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 34 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-🌃 Evening    31 commits     ████████████████████████░   96.88% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
+🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+🌆 Daytime                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+🌃 Evening                135 commits         ████████████████░░░░░░░░░   63.38 % 
+🌙 Night                  58 commits          ███████░░░░░░░░░░░░░░░░░░   27.23 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      12 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
-Wednesday    7 commits      █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-Thursday     13 commits     ██████████░░░░░░░░░░░░░░░   40.62% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
+Monday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Tuesday                  42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Wednesday                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Thursday                 33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Sunday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
+🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -60,27 +60,26 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Perl                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
+Go                       3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Crystal                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/fabio-e-azevedo/fabio-e-azevedo/master/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/fabio-e-azevedo/fabio-e-azevedo/master/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2021
+ Last Updated on 27/04/2024 04:31:26 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-e-azevedo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
