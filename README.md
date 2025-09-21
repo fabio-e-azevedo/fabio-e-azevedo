@@ -21,45 +21,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-🌆 Daytime                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-🌃 Evening                147 commits         █████████████░░░░░░░░░░░░   52.31 % 
-🌙 Night                  112 commits         ██████████░░░░░░░░░░░░░░░   39.86 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Tuesday                  56 commits          █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Wednesday                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Thursday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Saturday                 52 commits          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Sunday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +38,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fabio-e-azevedo/fabio-e-azevedo/master/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2025 04:40:50 UTC
+ Last Updated on 21/09/2025 04:41:49 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-e-azevedo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
