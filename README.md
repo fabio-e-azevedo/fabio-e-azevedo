@@ -7,13 +7,13 @@
 “The function of good software is to make the complex appear to be simple.” - Grady Booch
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 658 Contributions in the Year 2026
+> 🏆 674 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,11 +69,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Go                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Crystal                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Groovy                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Go                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Crystal                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Groovy                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -83,7 +83,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fabio-e-azevedo/fabio-e-azevedo/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 10:03:35 UTC
+ Last Updated on 06/09/2026 08:47:17 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-e-azevedo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
